@@ -21,7 +21,7 @@ web_design: "AJ"
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  X: "https://x.com/AracenaSebasti"
+  twitter: "https://x.com/AracenaSebasti"
   instagram: "https://www.instagram.com/contrerasa.93"
   linkedin: "https://www.linkedin.com/in/sebastian-contreras-aracena-a41a61155"
   github: "https://github.com/sebastiancontrerasa"
