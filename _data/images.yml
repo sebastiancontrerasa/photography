@@ -1,0 +1,15 @@
+DSAL_Portada.png:
+  title: "Proyecto DSAL – Codelco"
+  description: "Modelación hidráulica 2D, canales de contorno y estructuras para depósito de relaves."
+
+CEN_Portada.png:
+  title: "Proyecto Centinela – AMSA"
+  description: "Apoyo técnico especializado y revisión de entregables en ingeniería de factibilidad."
+
+PLD_Portada.png:
+  title: "Proyecto EIA – Peldehue Solar"
+  description: "Evaluación de impacto ambiental para planta fotovoltaica y diseño hidráulico asociado."
+
+WAY_Portada.png:
+  title: "Parque Eólico Wayra"
+  description: "Proyecto híbrido eólico-solar con almacenamiento en baterías y conexión al SEN."
