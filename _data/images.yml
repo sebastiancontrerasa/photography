@@ -1,15 +1,19 @@
-DSAL_Portada.png:
-  title: "Proyecto DSAL – Codelco"
-  description: "Modelación hidráulica 2D, canales de contorno y estructuras para depósito de relaves."
+PIC_01.jpg:
+  title: "Amsterdam - Flower Market"
+  description: "Eurotrip 2022."
 
-CEN_Portada.png:
-  title: "Proyecto Centinela – AMSA"
-  description: "Apoyo técnico especializado y revisión de entregables en ingeniería de factibilidad."
+PIC_02.jpg:
+  title: "Coliseo Romano"
+  description: "Eurotrip 2023."
 
-PLD_Portada.png:
-  title: "Proyecto EIA – Peldehue Solar"
-  description: "Evaluación de impacto ambiental para planta fotovoltaica y diseño hidráulico asociado."
+PIC_03.jpg:
+  title: "Acrópolis"
+  description: "Eurotrip 2023."
 
-WAY_Portada.png:
-  title: "Parque Eólico Wayra"
-  description: "Proyecto híbrido eólico-solar con almacenamiento en baterías y conexión al SEN."
+PIC_04.jpg:
+  title: "Pasillo en el Vaticano"
+  description: "Eurotrip 2023."
+
+  PIC_05.jpg:
+  title: "Pasillo en el Vaticano"
+  description: "Eurotrip 2023."
